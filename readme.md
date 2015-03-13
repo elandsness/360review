@@ -11,7 +11,7 @@ The code was written while I was managing a group of supervisors in a technical 
 
 Installation
 ------------------------------
-You'll need JPGraph (http://jpgraph.net/download/) for the graphig features.  Download that and install it to the sam place you put the feedback app files.  Be sure to change the folder name to "jpgraph".  Then, just put all of the feedback php files in a directory, edit the css file to modify the colors to fit your need, edit config.php with the appropriate settings, import the sql file into MySQL, and change the images in the images directory to brand it.
+You'll need JPGraph (http://jpgraph.net/download/) for the graphig features.  Download that and install it to the same place you put the feedback app files.  Be sure to change the folder name to "jpgraph".  Then, just put all of the feedback php files in a directory, edit the css file to modify the colors to fit your need, edit config.php with the appropriate settings, import the sql file into MySQL, and change the images in the images directory to brand it.
 
 License
 ------------------------------
