@@ -7,7 +7,7 @@ This is a simple 360 degree feedback site that allows individuals to solicit fee
 
 Motivation
 ------------------------------
-The code was written while I was managing a group of supervisors in a technical support center.  I wanted a tool to allow me to provide meaningful feedback to me employees for their career development.
+The code was written while I was managing a group of supervisors in a technical support center.  I wanted a tool to allow me to provide meaningful feedback to my employees for their career development.
 
 Installation
 ------------------------------
