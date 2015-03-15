@@ -15,4 +15,4 @@ You'll need JPGraph (http://jpgraph.net/download/) for the graphig features.  Do
 
 License
 ------------------------------
-There is no license for the software.  If you'd like to use it for personal use, go for it.  If you want to use it commercially, please ask me first.  Thanks, and enjoy.
+This software is being provided under the GNU GENERAL PUBLIC LICENSE v3.  Please see included license file for additional information.

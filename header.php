@@ -1,4 +1,21 @@
 <?php
+/*
+**    Copyright 2010-2014 Erik Landsness
+**    This file is part of 360 Feedback.
+**
+**    360 Feedback is free software: you can redistribute it and/or modify
+**    it under the terms of the GNU General Public License as published by
+**    the Free Software Foundation, either version 3 of the License, or any later version.
+**
+**    360 Feedback is distributed in the hope that it will be useful,
+**    but WITHOUT ANY WARRANTY; without even the implied warranty of
+**    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+**    GNU General Public License for more details.
+**
+**    You should have received a copy of the GNU General Public License
+**    along with 360 Feedback.  If not, see <http://www.gnu.org/licenses/>.
+*/
+
 session_start();
 require_once('config.php');
 require_once('emailchecker.php');
@@ -25,7 +42,7 @@ Released   : 20100729
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>ClearData 360&deg; Feedback (Brought to you by Turtle Time!)</title>
+<title><?php echo COMPANY_NAME;?> 360&deg; Feedback (Brought to you by Turtle Time!)</title>
 <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
 
 <link rel="icon" type="image/ico" href="http://<?php echo DOMAIN_NAME; ?>/favicon.ico"/>
